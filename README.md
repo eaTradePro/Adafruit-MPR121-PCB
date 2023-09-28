@@ -1,3 +1,6 @@
+//
+https://learn.adafruit.com/adafruit-mpr121-12-key-capacitive-touch-sensor-breakout-tutorial/downloads
+//
 ## Adafruit MPR121 capacitive touch breakout PCB
 <a href="http://www.adafruit.com/products/1982"><img src="assets/1982.jpg?raw=true" width="500px"><br/>
 Click here to purchase one from the Adafruit shop</a>
